@@ -13,6 +13,13 @@ Through design I  have gained an understanding of the design process, and the pr
 
 ## Skills
 
+Creative Problem solving 
+- design (link to blog)
+
+Team skills 
+- teaching - working with other teachers and assistants 
+
+
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
@@ -45,7 +52,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Distinction
 
 - Bachelor of Design 
-- Deans award (Distinction)  
+- Deans award 
+- Distinction
 
 
 #### Any other qualifications
@@ -64,4 +72,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
+Art / Design 
 Any cool stuff that makes you a super part of a software development team
