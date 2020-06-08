@@ -2,22 +2,31 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
+I am a software engineer and Makers grauduate. At makers I have learnt how to build full-stack applications with Behaviour Driven Development and how to use agile processes to code in colloborative team environments. I come from an education and design background, and I was led to a Tech career by a need/desire to solve problems that people experience (connect to design/ and education).  I enjoy breaking down/analysing problems and aplying divergent and convergent thinking strategies to solve these problems. 
 
-
-
-I come  from an education and Design background, and have worked as a teacher in a range of different contexts. During my time as a teacher I observed the educational challenges faced by the students and the current tools/technologies used in schools, and I thought there must be a better way. This lead me to look at software development. I chose to come to makers to aquire the skills that would help me build products to help solve problems that we face everyday. I love the problem solving process of coding and the ability to create a tangible product just using software/code. 
-
-I graduated from a Bachelor of Early Childhood Education (Distinction) and have worked as a teacher in a range of different contexts. Through teaching I have gained communication, team work and management skills.  I also have design skills and knowledge, and have participated in design courses and am developing design projects that aim to solve problems. My design projects include a series of children’s books that aim to solve the problem that many children find maths unengaging; and a packing system for people with executive functioning issues.
-Through design I  have gained an understanding of the design process, and the process of research and testing and skills in problem solving. A career in software development provides opportunities to create technology that can solve problems
 
 
 ## Skills
 
-Creative Problem solving 
-- design (link to blog)
+Problem solving  
+problem 
+- design 
+- thorough
+- divergent thinking/ convergent thinking processes 
+- problem finding and problem shaping, where the problem is discovered and simplified
+- Question asking 
+- BDD 
+- Creating user stories 
 
 Team skills 
-- teaching - working with other teachers and assistants 
+- Creating shared understanding
+- Understanding team members different needs and ways of thinking and catering for them  
+- Active listening
+- Communicating through multiple modes of communication - presenting ideas/concepts visually 
+- providing positive constructive feedback 
+- reciprocating to feedback through action 
+
+
 
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -43,17 +52,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React 
+- Postgres 
 - RSpec, Jasmine
+- Remore collaboration tools - Trello, Miro 
 
 #### Your University / College (start_date to end_date)
 
 -Bachelor of Early Childhood Education (birth to 12) Macquarie University 
 - Distinction
 
-- Bachelor of Design 
-- Deans award 
-- Distinction
+- Bachelor of Design (partial)
+  - Deans award 
+  - Distinction
 
 
 #### Any other qualifications
@@ -62,15 +73,25 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)    
+*Teacher*  
+- Planning skills
+- Working colloboratively with other teachers and assistants 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Supply Teacher** (April 2016 -  January 2019)   
+*Teachers*  
+- Worked in various different teaching roles, with different age groups and demographics. I have worked in both daily supply, week blocks and long term contracts. 
+- Daily roles 
+Skills: Flexible/ adaptable - ability to quickly understand chidlren and school culture
+- Long term roles - intervention teacher, year 3 teacher and reception teacher 
+Skills: 
+- Working colloboratively with assistants, management and parents
+- Initiative:  Planning and running an art club 
+
+
 
 ## Hobbies
 
-Art / Design 
-Any cool stuff that makes you a super part of a software development team
+Art - explore many mediums  including oil painting and sketching 
+Design - children's educational books, organisational solutions for people with attention processing issues - use mixed medium - traditional drawing tools combined with products from the adobe suite 
+
