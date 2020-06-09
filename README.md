@@ -73,37 +73,30 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Teaching in primary schools** (April 2016 -  January 2019)   
-- Worked in various different teaching roles, with different age groups and demographics. I have worked in both daily supply, week blocks and long term contracts. 
+**Teacher** (April 2016 -  January 2019)   
+- Worked in  different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts. 
 
 **Daily roles**
-As a daily supply teacher I would teach in different schools across London and outer London, and teach ages from nursery school to year six.
-The role required flexibility and adaptablity, and an ability to quickly understand what was required, and think on your feet if a plan was not writtent, and engage and manage thirty children, adapting to different  routines, and working alongside different teaching assistants, asses quickly which children needed needed additional support or those who were likely to be disruptive and maybe needed extra encouragement to stay on task.
+As a daily supply teacher I would teach in different schools throughout London, greater London and Sydney Australia, and across diffrent age groups. 
+The role required flexibility and adaptablity, and an ability to quickly understand what was required and respond to unanticipated situations (with creativity and calm).
+It required interpersonal and management skills as involved engaging with and managing thirty unfamiliar/ new children. It also required an ability to asses children quickly and understand their needs of children (who needed additional support or those who were likely to be disruptive and maybe needed extra encouragement to stay on task).
 
 **Long term roles**
 I worked in various different schools in long term placements. These included: 
-  -  **Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)  - nursery 
-  - school 2  - year 3 
-  - school 3 - intervention teacher 
-  - school 4 - intervention teacher/ nursery/ reception 
- These roles involved a process of planning and assesemnt/evaluation and communicating with team members, managment and parents are student's progress. 
+**Margaret McMillan Nursery School & Childrens Centre,  Islington** (January 2019 - July  2019)  
+**Year 3 Primary teacher for Queens Park Primary** (October 2018 - December 2019)
+**Intervention Teacher for St George the Matyr CofE Primary School** (January 2018 to August 2018)
+**PPA cover and intervention for Underhill school** (January - April 2017)
+
+ These roles involved a process of planning and assesemnt/evaluation. .. iterative ... and communicating with team members, managment and parents are student's progress. 
  - working with students with special needs ... adapting to different people 
 - initiative - planning and running an art club 
 - creativity - integrating across curriculum areas 
-- understanding of development and social environment and interaction  between the two ... application of theory to practice ...
+- understanding of development and social environment and interaction  between the two ... application of theory to practice 
+Working colloboratively with other teachers and assistants ...
 - encouragement 
 
-
-Flexible/ adaptable - ability to quickly understand chidlren and school culture
-- Long term roles - intervention teacher, year 3 teacher and reception teacher 
-Skills: 
-- Working colloboratively with assistants, management and parents
-- Initiative:  Planning and running an art club 
-
-**Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)    
-I worked in various different schools in long term placements. t
-- Planning skills
-- Working colloboratively with other teachers and assistants 
+- 
 
 ## Hobbies
 
