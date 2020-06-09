@@ -73,22 +73,37 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)    
-*Teacher*  
-- Planning skills
-- Working colloboratively with other teachers and assistants 
-
-**Supply Teacher** (April 2016 -  January 2019)   
-*Teachers*  
+**Teaching in primary schools** (April 2016 -  January 2019)   
 - Worked in various different teaching roles, with different age groups and demographics. I have worked in both daily supply, week blocks and long term contracts. 
-- Daily roles 
-Skills: Flexible/ adaptable - ability to quickly understand chidlren and school culture
+
+**Daily roles**
+As a daily supply teacher I would teach in different schools across London and outer London, and teach ages from nursery school to year six.
+The role required flexibility and adaptablity, and an ability to quickly understand what was required, and think on your feet if a plan was not writtent, and engage and manage thirty children, adapting to different  routines, and working alongside different teaching assistants, asses quickly which children needed needed additional support or those who were likely to be disruptive and maybe needed extra encouragement to stay on task.
+
+**Long term roles**
+I worked in various different schools in long term placements. These included: 
+  -  **Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)  - nursery 
+  - school 2  - year 3 
+  - school 3 - intervention teacher 
+  - school 4 - intervention teacher/ nursery/ reception 
+ These roles involved a process of planning and assesemnt/evaluation and communicating with team members, managment and parents are student's progress. 
+ - working with students with special needs ... adapting to different people 
+- initiative - planning and running an art club 
+- creativity - integrating across curriculum areas 
+- understanding of development and social environment and interaction  between the two ... application of theory to practice ...
+- encouragement 
+
+
+Flexible/ adaptable - ability to quickly understand chidlren and school culture
 - Long term roles - intervention teacher, year 3 teacher and reception teacher 
 Skills: 
 - Working colloboratively with assistants, management and parents
 - Initiative:  Planning and running an art club 
 
-
+**Margaret McMillan Nursery School & Childrens Centre** (January 2019 - July  2019)    
+I worked in various different schools in long term placements. t
+- Planning skills
+- Working colloboratively with other teachers and assistants 
 
 ## Hobbies
 
