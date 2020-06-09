@@ -55,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript, React 
 - Postgres 
 - RSpec, Jasmine
-- Remore collaboration tools - Trello, Miro 
+- Remote collaboration tools - Trello, Miro 
 
 #### Your University / College (start_date to end_date)
 
