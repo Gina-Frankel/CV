@@ -61,4 +61,4 @@ These roles involved a cycle of planning and evaluation. It involved communicati
 
 **Design** - I love thinking about problems and designing solutions for them. For example, I am designing a series of children’s books to support mathematical concept development, and am designing  organisational solutions for people with attention processing issues
 
-**Ping pong** - A new discovery. 
+**Ping pong** - A recent discovery
