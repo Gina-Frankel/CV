@@ -5,9 +5,9 @@ I was led to a Tech career by a need/desire to solve problems that people experi
 
 ## Projects 
 
-| Project  | Details  | Technology  |   |
+| Project  | Details  | Technology  | Deployed Project  |
 |----------|----------|---|---|
-| Mission Control [https://github.com/tommyrharper/mission-ctrl        | A game to teach VSCode shortcuts, the game design is based on arcarde syle | MongoDB, Express, React, Node, SCSS  |   |   
+| Mission Control [https://github.com/tommyrharper/mission-ctrl        | A game to teach VSCode shortcuts, the game design is based on arcarde syle | MongoDB, Express, React, Node, SCSS  | http://mission-ctrl.surge.sh/  |   
 |          |          |   |   |   
 |          |          |   |   |   
 
