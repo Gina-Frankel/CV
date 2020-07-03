@@ -12,14 +12,14 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 
 ## Projects
 
-| Project                                                           | Details                                                                                                                                           | Technology                                        | Deployed Project              |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------- |
-| [Mission Control](https://github.com/tommyrharper/mission-ctrl)   | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                        | MongoDB, Express, React, Node, SCSS               | http://mission-ctrl.surge.sh/ |
-| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests) | A Command Line Interface program imitating a bank account                                                                                         | Ruby                                              |                               |
-| [Statues](https://github.com/Gina-Frankel/statues)                | Currently developing website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup |https://problematic-statues.netlify.app/                             |
-|                                                                   |                                                                                                                                                   |                                                   |                               |
+| Project                                                           | Details                                                                                                                                                              | Technology                                        | Deployed Project                         |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------- |
+| [Mission Control](https://github.com/tommyrharper/mission-ctrl)   | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                                           | MongoDB, Express, React, Node, SCSS               | http://mission-ctrl.surge.sh/            |
+| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests) | A Command Line Interface program imitating a bank account                                                                                                            | Ruby                                              |                                          |
+| [Statues](https://github.com/Gina-Frankel/statues)                | Currently developing website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup | https://problematic-statues.netlify.app/ |
+|                                                                   |                                                                                                                                                                      |                                                   |                                          |
 
-|                                                                   |                                                                                                                                                   |                                     |                               |
+| | | | |
 
 ## Skills
 
@@ -42,33 +42,43 @@ At Makers Academy, during groups projects I am insistent that everyone can under
 
 As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement.
 
+## Technical Experience
+
+
+| Methodologies          | Languages  | Testing  | Libaries/Frameworks | Databases  | Workflow | Design Tools |
+| ---------------------- | ---------- | -------- | ------------------- | ---------- | -------- | ------------ |
+| XP/Agile metholodology | Ruby       | RSpec    | Rails               | PostgreSQL | Git      | Sketch       |
+| TDD / BDD              | Javascript | Capybara | Sinatra             | MongoDB    | TravisCI | Illustrator  |
+| Object Oriented Design | HTML       | Jasmine  | JQuery              |            | CircleCI | Photoshop    |
+| Remote working         | CSS        | Jest     | React               |            | VScode   | InDesign     |
+| Pair programming       | Python     | Enzyme   |                     |            | Trello   |              |
+|                        |            |          |                     |            |          |              |
+
+
 ## Education
 
-Makers Academy (start_date to end_date)
-Methodologies - OOP, TDD/BDD, MVC, Agile/Scrum/XP
-Languages - Ruby, Javascript, SQL, CSS, HTML
-Frameworks - React, Rails, Sinatra
-Databases - PostgresSQL
-Workflow - Git, Travis CI/CD Github, VSCode, Trello
-Testing - Rspec, Jasmine, Jest
-Databases - PostgreSQL
-Graphic design apps - Photoshop, InDesign, Illustrator
+### Makers Academy
+Feb 2020 - June 2020
 
-### University / College (start_date to end_date)
-
--Bachelor of Early Childhood Education (birth to 12) Macquarie University
+### University 
+March 2012 - April 2015
+**Bachelor of Early Childhood Education (birth to 12) Macquarie University**
 Distinction
-Bachelor of Design (partial)
+
+**Bachelor of Design**
+March 2009 - July 2012 (partial)
 Deans award
 Distinction
 
 ## Experience
 
-KollectiVo Consultant (June 2020 - current)
+KollectiVo Consultant 
+June 2020 - current
 
 - Consulting with the Lead Engineer to create a technical investor ready report for the FinTech startup KollectiVo.
 
-Teaching (April 2016 - January 2019)
+Teaching
+April 2015 - January 2020
 Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts.
 
 **Daily supply** - The role required teaching and managing a class of unfamiliar children. It involved being able to quickly asses and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
@@ -76,7 +86,7 @@ Worked in different teaching roles across the nursery age group to year 6. I hav
 **Long term roles** I worked in various different schools, as a nursery teacher, year 3 teacher and an intervention teacher.
 These roles involved a cycle of planning and evaluation. It involved communication with other teachers, management and parents, and the management of teaching assistants.
 
-## Hobbies
+## Interests
 
 **Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, pottery and sketching.
 
