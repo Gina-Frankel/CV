@@ -14,9 +14,9 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 
 | Project  | Details  | Technology  | Deployed Project  |
 |----------|----------|---|---|
-| Mission Control [https://github.com/tommyrharper/mission-ctrl        | A game to teach VSCode shortcuts, the game design is based on arcarde syle | MongoDB, Express, React, Node, SCSS  | http://mission-ctrl.surge.sh/  |   
-|          |          |   |   |   
-|          |          |   |   |   
+| [Mission Control](https://github.com/tommyrharper/mission-ctrl)       | A game to teach VSCode shortcuts, the game design is based on arcarde syle | MongoDB, Express, React, Node, SCSS  | http://mission-ctrl.surge.sh/  |   
+|[Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests)         |          |   |   |   
+|[Statues](https://github.com/Gina-Frankel/statues)          |          |   |   |   
 
 ## Skills
 
