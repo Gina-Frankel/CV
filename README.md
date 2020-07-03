@@ -47,7 +47,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
 | TDD / BDD              | Javascript | Capybara | Sinatra             | SQLite     | TravisCI | Illustrator  |
 | Object Oriented Design | HTML       | Jasmine  | JQuery              | MongoDB    | CircleCI | Photoshop    |
 | Remote working         | CSS        | Jest     | React               |            | VScode   | InDesign     |
-| Pair programming       | Python     | Enzyme   | Spacey              |            | Trello   |              |
+| Pair programming       | Python     | Enzyme   | Spacey              |            | Trello   | Miro         |
 | Design Thinking        |            |          | Beautiful Soup      |            |          |              |
 
 
