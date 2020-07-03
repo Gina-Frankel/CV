@@ -4,6 +4,11 @@ I am driven by a need to solve problems and to express creativity. In my previou
 
 I am thrilled that I am able to use TDD, BDD and agile processes to design and create applications that can help people. I am now looking to become part  of an organisation where I can make a positive contribution as a full stack  developer.
 
+### Contact/Links
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/gina-frankel-a935961b0/)
+[![GitHub Profile]](https://github.com/gina-frankel)
+
 ## Projects 
 
 | Project  | Details  | Technology  | Deployed Project  |
