@@ -54,23 +54,25 @@ As a teacher I ensured that all children could participate. I would draw on vari
 ## Education
 
 ### Makers Academy
-Feb 2020 - June 2020
+- Feb 2020 - June 2020
+- A 16 week intensive programming bootcamp.
+- The course is underpinned by Agile values and methodolgies and Test and Behaviour Driven Development. It focuses on student-led learning, by supporting students to develop solutions independently, in pairs and in groups. I have learnt how to collaborate remotely as due to COVID-19 the course was made remote. 
 
 ### University 
 
 **Bachelor of Early Childhood Education (birth to 12) Macquarie University**
 
-March 2012 - April 2015
+- March 2012 - April 2015
 
-Distinction
+- Distinction
 
 **Bachelor of Design**
 
-March 2009 - July 2012 (partial)
+- March 2009 - July 2012 (partial)
 
-Deans award
+- Deans award
 
-Distinction
+- Distinction
 
 ## Experience
 
