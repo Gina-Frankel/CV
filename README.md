@@ -19,28 +19,24 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 | [Statues](https://github.com/Gina-Frankel/statues)                | Currently developing website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup | https://problematic-statues.netlify.app/ |
 |                                                                   |                                                                                                                                                                      |                                                   |                                          |
 
-| | | | |
 
 ## Skills
 
 ### Problem solving
 
 I approach problems through divergent and convergent thinking processes. I have a good understanding of how to utilise different thinking processes to reach solutions
+
 At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I am break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. I am able to employ divergent thinking. In order to solve problems I use (divergent thinking) methods such as brainstorming, research, and experimentation. From this I will select the best solution.
 
-As a teacher I would analyse
+In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging  but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used  design thinking processes to solve these problems by creating innovative resources, for example I created a game to help children who were struggling with understanding the foundations of maths. 
 
-- I created a game to help children who were struggling with understanding the foundations of maths.
-- creating my own resources (series of educational books)
-- Different way of analysing read
-
-### Collaboration
+### Creating shared understanding
 
 I excel at creating shared understanding and an environment where everyone is actively participating.
 
 At Makers Academy, during groups projects I am insistent that everyone can understand and is actively participating. I analyse how different people communicate and think, and reflect on ways we can create an environment that everyone can participate. I led our final project at the start and was able to create a solid foundation. I facilitated the creation of a team charter that was underpinned by shared values, created a clear vision of the purpose of our project, and ensured that everyone was able to communicate their ideas for the project.
 
-As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement.
+As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement. 
 
 ## Technical Experience
 
@@ -48,11 +44,11 @@ As a teacher I ensured that all children could participate. I would draw on vari
 | Methodologies          | Languages  | Testing  | Libaries/Frameworks | Databases  | Workflow | Design Tools |
 | ---------------------- | ---------- | -------- | ------------------- | ---------- | -------- | ------------ |
 | XP/Agile metholodology | Ruby       | RSpec    | Rails               | PostgreSQL | Git      | Sketch       |
-| TDD / BDD              | Javascript | Capybara | Sinatra             | MongoDB    | TravisCI | Illustrator  |
-| Object Oriented Design | HTML       | Jasmine  | JQuery              |            | CircleCI | Photoshop    |
+| TDD / BDD              | Javascript | Capybara | Sinatra             | SQLite     | TravisCI | Illustrator  |
+| Object Oriented Design | HTML       | Jasmine  | JQuery              | MongoDB    | CircleCI | Photoshop    |
 | Remote working         | CSS        | Jest     | React               |            | VScode   | InDesign     |
-| Pair programming       | Python     | Enzyme   |                     |            | Trello   |              |
-|                        |            |          |                     |            |          |              |
+| Pair programming       | Python     | Enzyme   | Spacey              |            | Trello   |              |
+| Design Thinking        |            |          | Beautiful Soup      |            |          |              |
 
 
 ## Education
@@ -72,12 +68,12 @@ Distinction
 
 ## Experience
 
-KollectiVo Consultant 
+**KollectiVo Consultant**
 June 2020 - current
 
 - Consulting with the Lead Engineer to create a technical investor ready report for the FinTech startup KollectiVo.
 
-Teaching
+**Teaching**
 April 2015 - January 2020
 Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts.
 
