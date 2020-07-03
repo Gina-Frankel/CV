@@ -57,13 +57,19 @@ As a teacher I ensured that all children could participate. I would draw on vari
 Feb 2020 - June 2020
 
 ### University 
-March 2012 - April 2015
+
 **Bachelor of Early Childhood Education (birth to 12) Macquarie University**
+
+March 2012 - April 2015
+
 Distinction
 
 **Bachelor of Design**
+
 March 2009 - July 2012 (partial)
+
 Deans award
+
 Distinction
 
 ## Experience
