@@ -26,7 +26,7 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 
 I approach problems through divergent and convergent thinking processes. I have a good understanding of how to utilise different thinking processes to reach solutions
 
-At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I am break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. I am able to employ divergent thinking. In order to solve problems I use (divergent thinking) methods such as brainstorming, research, and experimentation. From this I will select the best solution.
+At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I am break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. In order to solve problems I use (divergent thinking) methods such as brainstorming, research, and experimentation. From this I will select the best solution.
 
 In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging  but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used  design thinking processes to solve these problems by creating innovative resources, for example I created a game to help children who were struggling with understanding the foundations of maths. 
 
