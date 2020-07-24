@@ -7,7 +7,7 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 ### Contact + Links
 
 [LinkedIn Profile](https://www.linkedin.com/in/gina-frankel-a935961b0/)
-[Portfolio](www.ginafrankel.com)
+[Portfolio](https://www.ginafrankel.com/)
 [GitHub Profile](https://github.com/gina-frankel)
 
 ## Projects
