@@ -2,6 +2,8 @@
 
 I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at Makers as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
 
+I am able to design and create a project from start to finish in groups and independently. This involves being able to gather requirements and ensure that they are clear and complete, model the system, and implement and test the code. In terms of implementation I understand that the design of the code should facilitate maintenance and re-use. Therefore I code for simplicity, clear separation of concepts and restricted visibility of information. I am continuously adding on to my theoretical knowledge of software engineering by reading and watching lectures. I have a very good grasp of agile processes and I am passionate about the agile process. I have even started to plan aspects of my life in iterative sprints.
+
 I am thrilled that I am able to use TDD, BDD and agile processes to design and create applications that can help people. I am now looking to become part of an organisation where I can make a positive contribution as a full stack developer.
 
 ### Contact + Links
@@ -12,13 +14,13 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 
 ## Projects
 
-| Project                                                           | Details                                                                                                                                                              | Technology                                        | Deployed Project                         |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------- |
-| [Mission Control](https://github.com/tommyrharper/mission-ctrl)   | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                                           | MongoDB, Express, React, Node, SCSS               | http://mission-ctrl.surge.sh/            |
-| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests) | A Command Line Interface program imitating a bank account                                                                                                            | Ruby                                              |                                          |
-| [Statues](https://github.com/Gina-Frankel/statues)                | Currently developing website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup | https://problematic-statues.netlify.app/ |
-|                                                                   |                                                                                                                                                                      |                                                   |                                          |
-
+| Project                                                             | Details                                                                                                                                                              | Technology                                        | Deployed Project                         |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------- |
+| [Mission Control](https://github.com/tommyrharper/mission-ctrl)     | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                                           | MongoDB, Express, React, Node, SCSS               | http://mission-ctrl.surge.sh/            |
+| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests)   | A Command Line Interface program imitating a bank account                                                                                                            | Ruby                                              |                                          |
+| [Statues](https://github.com/Gina-Frankel/statues)                  | Currently developing website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup | https://problematic-statues.netlify.app/ |
+| [Thermostat](https://github.com/Gina-Frankel/Thermostat)            | My first piece of JQuery - a model of a thermostat.                                                                                                                  | JavaScript, Jasmine, JQuery, CSS, HTML            |                                          |
+| [Gapag Book](https://github.com/alexakearns/acebook-rails-template) | A team project to create a social media website inspired by Facebook                                                                                                 | Rails, Ruby, Rspec, Capybara, Travis, Bcrypt      | https://gapag1.herokuapp.com/            |
 
 ## Skills
 
@@ -26,9 +28,9 @@ I am thrilled that I am able to use TDD, BDD and agile processes to design and c
 
 I approach problems through divergent and convergent thinking processes. I have a good understanding of how to utilise different thinking processes to reach solutions
 
-At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I am break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. In order to solve problems I use (divergent thinking) methods such as brainstorming, research, and experimentation. From this I will select the best solution.
+At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I am break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. In order to solve problems I use divergent thinking methods such as brainstorming, research, and experimentation. From this I apply analytical processes to select the best solution.
 
-In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging  but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used  design thinking processes to solve these problems by creating innovative resources, for example I created a game to help children who were struggling with understanding the foundations of maths. 
+In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources, for example I created a game to help children who were struggling with understanding the foundations of maths.
 
 ### Creating shared understanding
 
@@ -36,10 +38,9 @@ I excel at creating shared understanding and an environment where everyone is ac
 
 At Makers Academy, during groups projects I am insistent that everyone can understand and is actively participating. I analyse how different people communicate and think, and reflect on ways we can create an environment that everyone can participate. I led our final project at the start and was able to create a solid foundation. I facilitated the creation of a team charter that was underpinned by shared values, created a clear vision of the purpose of our project, and ensured that everyone was able to communicate their ideas for the project.
 
-As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement. 
+As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement.
 
 ## Technical Experience
-
 
 | Methodologies          | Languages  | Testing  | Libaries/Frameworks | Databases  | Workflow | Design Tools |
 | ---------------------- | ---------- | -------- | ------------------- | ---------- | -------- | ------------ |
@@ -49,22 +50,26 @@ As a teacher I ensured that all children could participate. I would draw on vari
 | Remote working         | CSS        | Jest     | React               |            | VScode   | InDesign     |
 | Pair programming       | Python     | Enzyme   | Spacey              |            | Trello   | Miro         |
 | Design Thinking        |            |          | Beautiful Soup      |            |          |              |
-
+|                        |            |          | Bootstrap           |            |          |              |
+|                        |            |          | Semantic-ui         |            |          |              |
 
 ## Education
 
 ### Makers Academy
+
 - Feb 2020 - June 2020
 - A 16 week intensive programming bootcamp.
-- The course is underpinned by Agile values and methodolgies and Test and Behaviour Driven Development. It focuses on student-led learning, by supporting students to develop solutions independently, in pairs and in groups. I have learnt how to collaborate remotely as due to COVID-19 the course was made remote. 
+- The course is underpinned by Agile values and methodolgies and Test and Behaviour Driven Development. It focuses on student-led learning, by supporting students to develop solutions independently, in pairs and in groups. I have learnt how to collaborate remotely as due to COVID-19 the course was made remote.
 
-### University 
+### University
 
 **Bachelor of Early Childhood Education (birth to 12) Macquarie University**
+
 - March 2012 - April 2015
 - Distinction
 
 **Bachelor of Design**
+
 - March 2009 - July 2012 (partial)
 - Deans award
 - Distinction
