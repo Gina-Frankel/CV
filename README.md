@@ -2,7 +2,7 @@
 
 I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at Makers as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
 
-I am able to design and create a project from start to finish in groups and independently. This involves being able to gather requirements and ensure that they are clear and complete, model the system, and implement and test the code. In terms of implementation I understand that the design of the code should facilitate maintenance and re-use. Therefore I code for simplicity, clear separation of concepts and restricted visibility of information. I am continuously adding on to my theoretical knowledge of software engineering by reading and watching lectures. I have a very good grasp of agile processes and I am passionate about the agile process. I have even started to plan aspects of my life in iterative sprints.
+I am able to design and create a project from start to finish in groups and independently. This involves being able to gather requirements and ensure that they are clear and complete, create models of the system, and implement and test the code. In terms of implementation I understand that the design of the code should facilitate maintenance and re-use. Therefore I code for simplicity, clear separation of concepts and restricted visibility of information. I am continuously adding on to my theoretical knowledge of software engineering by reading and watching lectures. I have a very good grasp of agile processes and I am passionate about the agile process. I have even started to plan aspects of my life in iterative sprints.
 
 I am thrilled that I am able to use my knowledge and skills to design and create applications that can help people. I am now looking to become part of an organisation where I can make a positive contribution as a full stack developer.
 
@@ -71,7 +71,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
 
 **Bachelor of Design**
 
-- March 2009 - July 2012 (partial)
+- March 2009 - July 2011 (partial)
 - Deans award
 - Distinction
 
