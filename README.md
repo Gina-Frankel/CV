@@ -1,18 +1,22 @@
-<a href="https://www.linkedin.com/in/gina-frankel/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="right"></a></p>
-<a href="https://www.linkedin.com/in/gina-frankel/"> <p>Portfolio<p> <a>
-
 <div align="center"> 
 <h1> Gina Frankel <h1>
-![Website]](https://www.ginafrankel.com/)
-## </div>
+<a href="https://www.ginafrankel.com/"> Website</a>
+<a href="https://www.linkedin.com/in/gina-frankel/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" ></a></p>
+<a href="https://www.linkedin.com/in/gina-frankel/"> 
+ </div>
+
+[![Website]](https://www.ginafrankel.com/)
 
 <div align="center">
 <h2>Navigation</h2>
 
 [Projects ](#projects)
+
 [Skills ](#skills)
+
 [Education ](#education)
+
 [Interests ](#interests)
 
 </div>
