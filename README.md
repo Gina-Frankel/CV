@@ -54,17 +54,6 @@ As a teacher I ensured that all children could participate. I would draw on vari
 
 ## Technical Experience
 
-| Methodologies          | Languages  | Testing  | Libaries/Frameworks | Databases  | Workflow | Design Tools |
-| ---------------------- | ---------- | -------- | ------------------- | ---------- | -------- | ------------ |
-| XP/Agile metholodology | Ruby       | RSpec    | Rails               | PostgreSQL | Git      | Sketch       |
-| TDD / BDD              | Javascript | Capybara | Sinatra             | SQLite     | TravisCI | Illustrator  |
-| Object Oriented Design | HTML       | Jasmine  | JQuery              | MongoDB    | CircleCI | Photoshop    |
-| Remote working         | CSS        | Jest     | React               |            | VScode   | InDesign     |
-| Pair programming       | Python     | Enzyme   | Spacey              |            | Trello   | Miro         |
-| Design Thinking        |            |          | Beautiful Soup      |            |          |              |
-|                        |            |          | Bootstrap           |            |          |              |
-|                        |            |          | Semantic-ui         |            |          |              |
-
 <table>
   <thead>
     <tr>
