@@ -2,7 +2,7 @@
 
 # Gina Frankel
 
-[Portfolio Website](https://www.ginafrankel.com/) | [LikedIn](https://www.ginafrankel.com/)
+[Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)
 
 <h3>Navigation</h3>
 
@@ -15,9 +15,7 @@
 [Interests ](#interests)
 
 </div>
-<div>
 
-## </div>
 
 I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at [Makers Academy](https://makers.tech/) as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
 
@@ -151,9 +149,9 @@ Worked in different teaching roles across the nursery age group to year 6. I hav
 - **Daily Supply Teaching** - 
 The role required teaching and managing a class of unfamiliar children. It involved being able to quickly asses and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
 
-- **Long Term Roles** 
+- **Long Term Roles** - 
   I worked in various different schools, as a nursery teacher, year 3 teacher and an intervention teacher.
-  These roles involved a cycle of planning and evaluation. It involved communication with other teachers, management and parents, and the management of teaching assistants.
+  These roles involved a cycle of planning and evaluation. It involved communication with other teachers, management and parents, and the management of teaching assistants. For more information about my roles please see my [LinkedIn](https://www.ginafrankel.com/) profile.
 
 ## Interests
 
