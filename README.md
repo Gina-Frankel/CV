@@ -86,7 +86,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
           <li>JavaScript</li>
           <li>HTML</li>
           <li>CSS</li>
-          <li>Python<li>
+          <li>Python</li>
         </ul>
       </td>
       <td style="vertical-align: top">
