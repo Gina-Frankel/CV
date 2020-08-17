@@ -1,21 +1,8 @@
-<div align="center"> 
-<h1> Gina Frankel <h1>
-<!-- <a href="https://www.ginafrankel.com/"> Website</a>
-<a href="https://www.linkedin.com/in/gina-frankel/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" ></a></p>
-<a href="https://www.linkedin.com/in/gina-frankel/">  -->
- </div>
-
 <div align="center">
 
-### Contact
+# Gina Frankel
 
-[![Website]](https://www.ginafrankel.com/)
-[![LikedIn]](https://www.ginafrankel.com/)
-
-</div>
-
-<div align="center">
+[Portfolio Website](https://www.ginafrankel.com/) | [LikedIn](https://www.ginafrankel.com/)
 
 <h3>Navigation</h3>
 
