@@ -1,31 +1,43 @@
-# Gina Frankel
+<a href="https://www.linkedin.com/in/gina-frankel/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="right"></a></p>
+<a href="https://www.linkedin.com/in/gina-frankel/"> <p>Portfolio<p> <a>
 
-I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at Makers as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
+<div align="center"> 
+<h1> Gina Frankel <h1>
+![Website]](https://www.ginafrankel.com/)
+## </div>
+
+<div align="center">
+<h2>Navigation</h2>
+
+[Projects ](#projects)
+[Skills ](#skills)
+[Education ](#education)
+[Interests ](#interests)
+
+</div>
+<div>
+
+## </div>
+
+I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at [Makers Academy](https://makers.tech/) as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
 
 I am able to design and create a project from start to finish in groups and independently. This involves being able to gather requirements and ensure that they are clear and complete, create models of the system, and implement and test the code. In terms of implementation I understand that the design of the code should facilitate maintenance and re-use. Therefore I code for simplicity, clear separation of concepts and restricted visibility of information. I am continuously adding on to my theoretical knowledge of software engineering by reading and watching lectures. I have a very good grasp of agile processes and I am passionate about the agile process. I have even started to plan aspects of my life in iterative sprints.
 
 I am thrilled that I am able to use my knowledge and skills to design and create applications that can help people. I am now looking to become part of an organisation where I can make a positive contribution as a full stack developer.
 
-### Contact + Links
+# Projects
 
-[LinkedIn Profile](https://www.linkedin.com/in/gina-frankel-a935961b0/)
-
-[Portfolio](https://www.ginafrankel.com/)
-
-[GitHub Profile](https://github.com/gina-frankel)
-
-## Projects
-
-| Project                                                             | Details                                                                                                                                                              | Technology                                              | Deployed Project                         |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------- |
-| [Mission Control](https://github.com/tommyrharper/mission-ctrl)     | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                                           | MongoDB, Express, React, Node, SCSS, Jest, Enzyme       | http://mission-ctrl.surge.sh/            |
-| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests)   | A Command Line Interface program imitating a bank account                                                                                                            | Ruby, RSpec                                             |                                          |
+| Project                                                             | Details                                                                                                                                           | Technology                                              | Deployed Project                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------- |
+| [Mission Control](https://github.com/tommyrharper/mission-ctrl)     | A game to teach VSCode shortcuts, the game design is based on arcarde syle                                                                        | MongoDB, Express, React, Node, SCSS, Jest, Enzyme       | http://mission-ctrl.surge.sh/            |
+| [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests)   | A Command Line Interface program imitating a bank account                                                                                         | Ruby, RSpec                                             |                                          |
 | [Statues](https://github.com/Gina-Frankel/statues)                  | A website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade | React, Javascript, Python, Spacey, Beautiful Soup, Jest | https://problematic-statues.netlify.app/ |
-| [Portfolio](https://github.com/Gina-Frankel/portfolio)              | A website to display my projects                                                                                                                                     | React, Javascript, Jest, Enzyme                         | https://www.ginafrankel.com/             |
-| [Thermostat](https://github.com/Gina-Frankel/Thermostat)            | My first piece of JQuery - a model of a thermostat.                                                                                                                  | JavaScript, Jasmine, JQuery, CSS, HTML                  |                                          |
-| [Gapag Book](https://github.com/alexakearns/acebook-rails-template) | A team project to create a social media website inspired by Facebook                                                                                                 | Rails, Ruby, Rspec, Capybara, Travis, Bcrypt            | https://gapag1.herokuapp.com/            |
+| [Portfolio](https://github.com/Gina-Frankel/portfolio)              | A website to display my projects                                                                                                                  | React, Javascript, Jest, Enzyme                         | https://www.ginafrankel.com/             |
+| [Thermostat](https://github.com/Gina-Frankel/Thermostat)            | My first piece of JQuery - a model of a thermostat.                                                                                               | JavaScript, Jasmine, JQuery, CSS, HTML                  |                                          |
+| [Gapag Book](https://github.com/alexakearns/acebook-rails-template) | A team project to create a social media website inspired by Facebook                                                                              | Rails, Ruby, Rspec, Capybara, Travis, Bcrypt            | https://gapag1.herokuapp.com/            |
 
-## Skills
+# Skills
 
 ### Problem solving
 
@@ -56,7 +68,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
 |                        |            |          | Bootstrap           |            |          |              |
 |                        |            |          | Semantic-ui         |            |          |              |
 
-## Education
+# Education
 
 ### Makers Academy
 
