@@ -105,13 +105,11 @@ As a teacher I ensured that all children could participate. I would draw on vari
         </ul>
       </td>
       <td style="vertical-align: top">
-        <ul>
-          <li>RSpec</li>
-          <li>Capybara</li>
-          <li>Jasmine</li>
-          <li>Jest</li>
-          <li>Enzyme</li>
-        </ul>
+          <p>RSpec</p>
+          <p>Capybara</p>
+          <p>Jasmine</p>
+          <p>Jest</p>
+          <p>Enzyme</p>
       </td>
       <td style="vertical-align: top">
         <ul>
