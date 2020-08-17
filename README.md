@@ -67,62 +67,53 @@ As a teacher I ensured that all children could participate. I would draw on vari
   <tbody>
     <tr>
       <td style="vertical-align: top">
-        <ul>
-          <li>XP/Agile methodology</li>
-          <li>TDD/BDD</li>
-          <li>Object Oriented Design</li>
-          <li>Remote working</li>
-          <li>Pair programming</li>
-          <li>Continuous Integration & Deployment</li>
-          <li>Git workflow</li>
-          <li>Code review</li>
-          <li>MVC Pattern</li>
-          <li>RESTful APIs</li>
-        </ul>
+          <p>XP/Agile methodology</p>
+          <p>TDD/BDD</p>
+          <p>Object Oriented Design</p>
+          <p>Remote working</p>
+          <p>Pair programming</p>
+          <p>Continuous Integration & Deployment</p>
+          <p>Git workflow</p>
+          <p>Code review</p>
+          <p>MVC Pattern</p>
+          <p>RESTful APIs</p>
       </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Ruby</li>
-          <li>JavaScript</li>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>Python<li>
-        </ul>
+      <td style="vertical-apgn: top">
+          <p>Ruby</p>
+          <p>JavaScript</p>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>Python<p>
       </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Rails</li>
-          <li>Sinatra</li>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>jQuery</li>
-          <li>React</li>
-          <li>PostgreSQL</li>
-          <li>MongoDB</li>
-          <li>CircleCI</li>
-          <li>vercel</li>
-          <li>Netify</li>
-        </ul>
+      <td style="vertical-apgn: top">
+          <p>Rails</p>
+          <p>Sinatra</p>
+          <p>Node.js</p>
+          <p>Express</p>
+          <p>jQuery</p>
+          <p>React</p>
+          <p>PostgreSQL</p>
+          <p>MongoDB</p>
+          <p>CircleCI</p>
+          <p>Vercel</p>
+          <p>Netify</p>
       </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>RSpec</li>
-          <li>Capybara</li>
-          <li>Jasmine</li>
-          <li>Jest</li>
-          <li>Enzyme</li>
-        </ul>
+      <td style="vertical-apgn: top">
+          <p>RSpec</p>
+          <p>Capybara</p>
+          <p>Jasmine</p>
+          <p>Jest</p>
+          <p>Enzyme</p>
       </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>VSCode</li>
-          <li>Git</li>
-          <li>Sketch</li>
-          <li> XD </li>
-          <li>Photoshop</li>
-          <li>Illustrator</li>
-          <li>InDesign</li>
-        </ul>
+      <td style="vertical-apgn: top">
+          <p>VSCode</p>
+          <p>Git</p>
+          <p>Sketch</p>
+          <p> XD </p>
+          <p>Photoshop</p>
+          <p>Illustrator</p>
+          <p>InDesign</p>
+          <p>Miro<p>
       </td>
     </tr>
   </tbody>
