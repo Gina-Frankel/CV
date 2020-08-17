@@ -142,15 +142,11 @@ As a teacher I ensured that all children could participate. I would draw on vari
 
 ## Experience
 
-**KollectiVo Consultant**
-June 2020 - current
-
+**KollectiVo Consultant** (June 2020 - current)
 Consulting with the Lead Engineer to create a technical investor ready report for the FinTech startup KollectiVo.
 
-**Teaching**
-April 2015 - January 2020
-
-Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts.
+**Teaching** (April 2015 - January 2020)
+Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts. 
 
 **Daily supply** - 
 The role required teaching and managing a class of unfamiliar children. It involved being able to quickly asses and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
