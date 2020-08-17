@@ -9,7 +9,7 @@
 [![Website]](https://www.ginafrankel.com/)
 
 <div align="center">
-<h2>Navigation</h2>
+<h>Navigation</h2>
 
 [Projects ](#projects)
 
