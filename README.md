@@ -65,6 +65,80 @@ As a teacher I ensured that all children could participate. I would draw on vari
 |                        |            |          | Bootstrap           |            |          |              |
 |                        |            |          | Semantic-ui         |            |          |              |
 
+<table>
+  <thead>
+    <tr>
+      <th>Concepts</th>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Python<li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>MongoDB</li>
+          <li>CircleCI</li>
+          <li>vercel</li>
+          <li>Netify</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Git</li>
+          <li>Sketch</li>
+          <li> XD </li>
+          <li>Photoshop</li>
+          <li>Illustrator</li>
+          <li>InDesign</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # Education
 
 ### Makers Academy
