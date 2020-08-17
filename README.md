@@ -78,14 +78,14 @@ As a teacher I ensured that all children could participate. I would draw on vari
           <p>MVC Pattern</p>
           <p>RESTful APIs</p>
       </td>
-      <td style="vertical-apgn: top">
+      <td style="vertical-align: top">
           <p>Ruby</p>
           <p>JavaScript</p>
           <p>HTML</p>
           <p>CSS</p>
           <p>Python<p>
       </td>
-      <td style="vertical-apgn: top">
+      <td style="vertical-align: top">
           <p>Rails</p>
           <p>Sinatra</p>
           <p>Node.js</p>
@@ -105,7 +105,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
           <p>Jest</p>
           <p>Enzyme</p>
       </td>
-      <td style="vertical-apgn: top">
+      <td style="vertical-align: top">
           <p>VSCode</p>
           <p>Git</p>
           <p>Sketch</p>
