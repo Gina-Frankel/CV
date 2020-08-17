@@ -98,7 +98,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
           <p>Vercel</p>
           <p>Netify</p>
       </td>
-      <td style="vertical-apgn: top">
+      <td style="vertical-align: top">
           <p>RSpec</p>
           <p>Capybara</p>
           <p>Jasmine</p>
