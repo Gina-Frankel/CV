@@ -55,72 +55,17 @@ At Makers Academy, during groups projects I am insistent that everyone can under
 
 As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement. 
 
-## Technical Experience
+## Technical Skills 
 
-<table>
-  <thead>
-    <tr>
-      <th>Concepts</th>
-      <th>Languages</th>
-      <th>Technologies</th>
-      <th>Testing Frameworks</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top">
-          <p>XP/Agile methodology</p>
-          <p>TDD/BDD</p>
-          <p>Object Oriented Design</p>
-          <p>Remote working</p>
-          <p>Pair programming</p>
-          <p>Continuous Integration & Deployment</p>
-          <p>Git workflow</p>
-          <p>Code review</p>
-          <p>MVC Pattern</p>
-          <p>RESTful APIs</p>
-      </td>
-      <td style="vertical-align: top">
-          <p>Ruby</p>
-          <p>JavaScript</p>
-          <p>HTML</p>
-          <p>CSS</p>
-          <p>Python<p>
-      </td>
-      <td style="vertical-align: top">
-          <p>Rails</p>
-          <p>Sinatra</p>
-          <p>Node.js</p>
-          <p>Express</p>
-          <p>jQuery</p>
-          <p>React</p>
-          <p>PostgreSQL</p>
-          <p>MongoDB</p>
-          <p>CircleCI</p>
-          <p>Vercel</p>
-          <p>Netify</p>
-      </td>
-      <td style="vertical-align: top">
-          <p>RSpec</p>
-          <p>Capybara</p>
-          <p>Jasmine</p>
-          <p>Jest</p>
-          <p>Enzyme</p>
-      </td>
-      <td style="vertical-align: top">
-          <p>VSCode</p>
-          <p>Git</p>
-          <p>Sketch</p>
-          <p> XD </p>
-          <p>Photoshop</p>
-          <p>Illustrator</p>
-          <p>InDesign</p>
-          <p>Miro<p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Area          | Skills                                                |
+| :------------ | :---------------------------------------------------- |
+| Languages     | Javascript, Typescript, Ruby, CSS, HTML, Python         |
+| Frameworks    | React, Rails                        |
+| Testing       | Jest, Jasmine, RSpec, Capybara  |
+| Databases     | PostgreSQL, MongoDB                                   |       
+|Methodologies |OOP, TDD/BDD, Agile , CI/CD |
+|Design Tools| Sketch, Photoshop, Illustrator, InDesign  |
+
 
 # Education
 
