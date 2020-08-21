@@ -2,9 +2,10 @@
 
 # Gina Frankel
 
-[Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)
 
-<h3>Navigation</h3>
+
+<h3>Full Stack Developer</h3>
+[Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)
 
 [Projects ](#projects)|
 [Skills ](#skills)|
@@ -13,7 +14,7 @@
 
 </div>
 I am a Junior Full Stack Developer obsessed with agile methodologies and clean code. I love creating beautiful user-friendly applications that solve real problems.
-
+<br></br>
 
 Prior to software development, I worked as a teacher. Teaching provided inspiration to design educational products and software applications. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time. 
 
