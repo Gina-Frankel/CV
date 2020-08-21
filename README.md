@@ -20,7 +20,7 @@ I am a Junior Full Stack Developer obsessed with agile methodologies and clean c
 Prior to software development, I worked as a teacher. Teaching provided inspiration to design educational products and software applications. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time. 
 
 
-In order to learn best development practices I decided to study at [Makers Academy](https://makers.tech/). At Makers Academy I learnt how to build full-stack applications using Test and Behaviour Driven Development, pair programming, and agile processes.
+In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using Test and Behaviour Driven Development, pair programming, and agile processes. I am now working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to improve thier workflow through technical solutions. 
 
 
 I am looking forward to being able to contribute my skills and love of coding to a new role. I am seeking a role which will provide challenge and learning opportunities. 
