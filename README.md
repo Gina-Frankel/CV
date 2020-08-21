@@ -7,19 +7,19 @@
 <h3>Navigation</h3>
 
 [Projects ](#projects)
-
 [Skills ](#skills)
-
 [Education ](#education)
-
 [Interests ](#interests)
 
 </div>
+I am a Junior Full Stack Developer obsessed with agile methodologies and clean code. I love creating beautiful user-friendly applications that solve real problems.
 
+Prior to software development, I worked as a teacher. Teaching provided inspiration to design educational products and software applications. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time. To learn best practices  I decided to study at Makers Academy](https://makers.tech/).
 
-I am driven by a need to solve problems and to express creativity. In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources. Through this I realised that I wanted to focus on creating products to help people learn. This lead me to study software design at [Makers Academy](https://makers.tech/) as I believe software development provides a digital canvas to actualise innovative ideas and solutions to problems.
+At Makers Academy I learnt how to build full-stack applications using Test and Behaviour Driven Development, pair programming and agile processes.
 
-I am thrilled that I am able to use my knowledge and skills to design and create applications that can help people. I am now looking to become part of an organisation where I can make a positive contribution as a full stack developer.
+I am looking forward to being able to contribute my skills and love of coding to a new role. I am seeking a role which will provide challenge and learning opportunities. 
+
 
 # Projects
 
