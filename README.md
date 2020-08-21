@@ -5,7 +5,8 @@
 
 
 <h3>Full Stack Developer</h3>
-[Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)
+  
+<h2>[Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)</h2>
 
 [Projects ](#projects)|
 [Skills ](#skills)|
