@@ -41,19 +41,18 @@ I am looking forward to being able to contribute my skills and love of coding to
 
 ### Problem solving
 
-I approach problems through divergent and convergent thinking processes. I have a good understanding of how to utilise different thinking processes to reach solutions
+At Makers Academy I  refined my problem-solving approach. External reviewers have provided feedback that I can break down problems very thoroughly. I use a variety of method to analyse problems, which include input and output tables, User Stories, diagrams and diagrams.  When I come across something I am not sure how to code I use divergent thinking methods to come up with multiple solutions.  These methods include brainstorming, experimentation and research. I will then select the best solution.
 
-At Makers Academy I have refined my problem solving approach. External reviewers have provided feedback that I can break down problems very thoroughly and ask excellent questions. I use a variety of method to analyse problems, which include User Stories, diagrams and input and output tables. In order to solve problems I use divergent thinking methods such as brainstorming, research, and experimentation. From this I apply analytical processes to select the best solution. I am also good at finding problems that need to be solved. For example, my groups final project at Makers was born from my realisation that it was difficult to learn VS shortcuts while simultaneously learning how to code.
+In my previous career as a teacher, I come across many educational challenges. I used design thinking processes to solve these problems by creating innovative resources. For example, I created a game to help children who were struggling with understanding the foundations of maths.
 
-In my previous career as a teacher I come across many problems, such as how to create learning experiences that were meaningful and engaging but still covered the outcomes of the curriculum; and how to ensure that each experience catered for a diverse range of abilities. I used design thinking processes to solve these problems by creating innovative resources, for example I created a game to help children who were struggling with understanding the foundations of maths.
 
 ### Creating shared understanding
 
-I excel at creating shared understanding and an environment where everyone is actively participating.
+I excel at creating an environment where everyone is on the same page and are able to actively participate. Through studying theories of education and my practical experience teaching  I gained a deep understanding of the different ways people process information. I am able to make use of these different communication styles to ensure that everyone can understand and participate. 
+It is because of these skills  I was selected to lead our final project at the start. I led the team through deciding on the features and ensured everyone listened to each other's ideas. I  was able to create a shared vision by leading the creation of our team charter, which outlined our shared values and the purpose of our project. 
 
-At Makers Academy, during groups projects I am insistent that everyone can understand and is actively participating. I analyse how different people communicate and think, and reflect on ways we can create an environment that everyone can participate. I led our final project at the start and was able to create a solid foundation. I facilitated the creation of a team charter that was underpinned by shared values, created a clear vision of the purpose of our project, and ensured that everyone was able to communicate their ideas for the project.
 
-As a teacher I ensured that all children could participate. I would draw on various different modes of communication to ensure understanding and engagement. 
+
 
 ## Technical Skills 
 
@@ -79,7 +78,7 @@ As a teacher I ensured that all children could participate. I would draw on vari
 
 **Bachelor of Early Childhood Education (birth to 12) Macquarie University**
 
-- March 2010 - April 2015
+- March 2011 - April 2015
 - Distinction
 
 **Bachelor of Design**
@@ -105,7 +104,7 @@ The role required teaching and managing a class of unfamiliar children. It invol
 
 ## Interests
 
-**Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, pottery and sketching.
+**Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottert.
 
 **Design** - I love thinking about problems and designing solutions for them. For example, I am designing a series of children’s books to support mathematical concept development, and am designing organisational solutions for people with attention processing issues
 
