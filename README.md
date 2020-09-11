@@ -41,7 +41,7 @@ At Makers Academy I refined my problem-solving approach. External reviewers have
 
 In my previous career as a teacher, I come across many educational challenges. I used design thinking processes to solve these problems by creating innovative resources. For example, I created a game to help children who were struggling with understanding the foundations of maths.
 
-### Creating shared understanding
+### Communication
 
 I excel at creating an environment where everyone is on the same page and are able to actively participate. Through studying theories of education and my practical experience teaching I gained a deep understanding of the different ways people process information. I am able to make use of these different communication styles to ensure that everyone can understand and participate.
 It is because of these skills I was selected to lead our final project at the start. I led the team through deciding on the features and ensured everyone listened to each other's ideas. I was able to create a shared vision by leading the creation of our team charter, which outlined our shared values and the purpose of our project.
