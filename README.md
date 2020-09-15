@@ -37,7 +37,7 @@ I am looking forward to being able to contribute my skills and love of coding to
 
 ### Problem solving
 
-At Makers Academy I refined my problem-solving approach. External reviewers have provided feedback that I can break down problems very thoroughly. I use a variety of method to analyse problems, which include input and output tables, User Stories, diagrams and diagrams. When I come across something I am not sure how to code I use divergent thinking methods to come up with multiple solutions. These methods include brainstorming, experimentation and research. I will then select the best solution.
+At Makers Academy I refined my problem-solving approach. External reviewers have provided feedback that I can break down problems very thoroughly. I use a variety of method to analyse problems, which include input and output tables, User Stories, and diagrams. When I come across something I am not sure how to code I use divergent thinking methods to come up with multiple solutions. These methods include brainstorming, experimentation and research. I will then select the best solution.
 
 In my previous career as a teacher, I come across many educational challenges. I used design thinking processes to solve these problems by creating innovative resources. For example, I created a game to help children who were struggling with understanding the foundations of maths.
 
