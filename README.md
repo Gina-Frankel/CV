@@ -2,7 +2,7 @@
 
 # Gina Frankel
 
-<h3>Full Stack Developer</h3>
+<h3> Junior Full Stack Developer</h3>
   
 [Portfolio Website](https://www.ginafrankel.com/) | [LinkedIn](https://www.ginafrankel.com/)
 
@@ -12,14 +12,15 @@
 [Interests ](#interests)
 
 </div>
-I am a Junior Full Stack Developer. I love using agile processes to create beautiful user-friendly applications that solve real problems.
+I became a software developer as a I believe that technology provides a digital canvas to actualise innovative ideas and solutions to problems.
 <br></br>
 
-Prior to software development, I worked as a teacher. Teaching provided inspiration to design educational products and software applications. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time.
+Prior to software development, I worked as a teacher in Australia, Colombia and England. While teaching I was inspired to design educational products and software applications to solve some of the current problems in education. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time.
 
-In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using Test and Behaviour Driven Development, pair programming, and agile processes. I am now working to extend my leanring and helping [Denmark Street Studios](https://www.denmarkstreetstudios.com/) improve thier workflow through technical solutions.
+In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
 
-I am looking forward to being able to contribute my skills and love of coding to a new role. I am seeking a role which will provide challenge and learning opportunities.
+I am looking forward to being able to use my skills to build products that can make a difference to people's lifes. 
+
 
 # Projects
 
@@ -37,23 +38,26 @@ I am looking forward to being able to contribute my skills and love of coding to
 
 ### Problem solving
 
-At Makers Academy I refined my problem-solving approach. External reviewers have provided feedback that I can break down problems very thoroughly. I use a variety of method to analyse problems, which include input and output tables, User Stories, and diagrams. When I come across something I am not sure how to code I use divergent thinking methods to come up with multiple solutions. These methods include brainstorming, experimentation and research. I will then select the best solution.
-
-In my previous career as a teacher, I come across many educational challenges. I used design thinking processes to solve these problems by creating innovative resources. For example, I created a game to help children who were struggling with understanding the foundations of maths.
+I believe that any problem can be solved. My approach to solving problems involves analysing the problem, exploring different solutions and then evaluating which is the best solution. As a teacher, if a child was struggling with learning a concept I would analyse the underlying reasons for this difficulty, and then think about different ways I could present this concept to the child. This often led to creating customised resources, such as a book about a fraction eating elephant and a game to teach about the decimal system. I apply the same mix of analytical and creative problem-solving skills to software development. To breakdown coding problems I use TDD and tools such as Input and Output tables, User Stories, and UML diagrams. After analysing a problem, if the solution is still unknown, I brainstorm, research and experiment with different solutions. I love using creativity to solve real world problems and help people. For example, I created the game Mission-ctrl  to help developers overcome difficulties in learning Visual Studio shortcuts, so as to become more efficient. 
 
 ### Communication
 
-I excel at creating an environment where everyone is on the same page and are able to actively participate. Through studying theories of education and my practical experience teaching I gained a deep understanding of the different ways people process information. I am able to make use of these different communication styles to ensure that everyone can understand and participate.
-It is because of these skills I was selected to lead our final project at the start. I led the team through deciding on the features and ensured everyone listened to each other's ideas. I was able to create a shared vision by leading the creation of our team charter, which outlined our shared values and the purpose of our project.
+Teaching provided me with insight into how to create collaborative environments. In the classroom, I used a variety of different communication techniques to match each child’s needs. This meant that children of all different levels were able to understand and actively participate. This ability to adapt my communication to each person’s needs are very beneficial when pair programming and working in teams. At Makers Academy, whenever I led a sprint everyone’s ideas were heard, a fully unified vision for the project was developed and everyone understood what they needed to do. This always led to a far more efficient and robust implementation of the product and a more unified and focused team. 
+
+
+### Learning ability
+I learn quickly and am intrinsically motivated. To ensure I am making progress and fully understand concepts I plan, track and assess my own learning. I also am proactive and will seek feedback from more experienced developers. My understanding of educational theory ensures that I can do this effectively. I have taught myself how to use React, and React frameworks such as Next and Gatsby as well as Typescript and GraphQl. 
+
+
 
 ## Technical Skills
 
 | Area          | Skills                                          |
 | :------------ | :---------------------------------------------- |
-| Languages     | Javascript, Typescript, Ruby, CSS, HTML, Python |
+| Languages     | Javascript, Typescript, Ruby, CSS, Sass, HTML, Python |
 | Frameworks    | React, Rails                                    |
 | Testing       | Jest, Jasmine, RSpec, Capybara                  |
-| Databases     | PostgreSQL, MongoDB                             |
+| Data    | PostgreSQL, MongoDB, GraphQL                             |
 | Methodologies | OOP, TDD/BDD, Agile , CI/CD                     |
 | Design Tools  | Sketch, Photoshop, Illustrator, InDesign        |
 
@@ -68,7 +72,6 @@ It is because of these skills I was selected to lead our final project at the st
 ### University
 
 **Bachelor of Early Childhood Education (birth to 12) Macquarie University**
-
 - March 2011 - April 2015
 - Distinction
 
@@ -86,7 +89,7 @@ _Denmark Street studio is a successful music studio_
 
 - Built a JXA application which reduced time spent on accounting processes by 50%
 
-**Consultant - KollectiVo**
+**Consultant - Kolleno**
 July 2020 - Current
 _KollectiVo is a fintech startup helping companies manage late payments_
 
@@ -106,7 +109,7 @@ _Worked in different teaching roles across the nursery age group to year 6. I ha
 
 **Educational Consultant - Purple Mash**
 February 2018 - May 2018
-_Purple mash is an educational website used in nursery + primary schools_
+_Purple mash is an educational website widely used in nursery + primary schools_
 
 - Researched edTech in Australia which influenced business strategy
 - Designed educational resources for the Australian market
@@ -115,13 +118,13 @@ _Purple mash is an educational website used in nursery + primary schools_
 April 2017 - August 2018 
 _Jewish interactive is an edTech organisation that provides educational content and teaches coding_
 
-- Taught HTML + CSS to primary school students
+- Taught primary school students how to build a website using HTML + CSS, and how to make animation in Scratch
 
 **Volunteer in Colombia - Marina Orth Foundation**
 August 2015 - December 2015
 The Marina Orth Foundation improves the lives of people in Colombia through education
 
-- Taught English and ran Art/English clubs in two impoverished rural schools near Medellín, Colombia
+- Taught English and ran Art and English clubs in two impoverished rural schools near Medellín, Colombia
 - Developed English language resources
 
 **Community outreach Volunteer - StandUp**
@@ -133,8 +136,8 @@ Standup empowers marginalised communities in Australia
 
 ## Interests
 
-**Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottert.
+**Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottery.
 
-**Design** - I love thinking about problems and designing solutions for them. For example, I am designing a series of children’s books to support mathematical concept development, and am designing organisational solutions for people with attention processing issues
+**Design** - I love thinking about problems and designing solutions for them. For example, I am designing a picture book to teach children about climate change, and am designing organisational solutions for people with attention processing issues
 
 **Ping pong** - A recent discovery
