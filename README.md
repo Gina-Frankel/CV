@@ -83,7 +83,7 @@ I learn quickly and am intrinsically motivated. To ensure I am making progress a
 
 ## Experience
 
-### ** Freelance Software Development - Denmark Street Studios**
+### **Freelance Software Development - Denmark Street Studios**
 August 2020 - Current 
 _Denmark Street studio is a successful music studio_
 
