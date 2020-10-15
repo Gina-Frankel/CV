@@ -83,20 +83,20 @@ I learn quickly and am intrinsically motivated. To ensure I am making progress a
 
 ## Experience
 
-**Tech solutions - Denmark Street Studios**
+### ** Freelance Software Development - Denmark Street Studios**
 August 2020 - Current 
 _Denmark Street studio is a successful music studio_
 
 - Built a JXA application which reduced time spent on accounting processes by 50%
 
-**Consultant - Kolleno**
+### **Consultant - Kolleno**
 July 2020 - Current
 _KollectiVo is a fintech startup helping companies manage late payments_
 
 - Consulted with the Lead Engineer to create a technical investor-ready business plan
 - Provided UX advice to improve dashboard
 
-**Teacher**
+### **Teacher**
 April 2015 - January 2020
 _Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts._
 
@@ -107,27 +107,27 @@ _Worked in different teaching roles across the nursery age group to year 6. I ha
   I worked in various different schools, as a nursery teacher, year 3 teacher and an intervention teacher.
   These roles involved a cycle of planning and evaluation. It involved communication with other teachers, the leadership team and parents, and the management of teaching assistants. For more information about these roles please see my [LinkedIn](https://www.ginafrankel.com/) profile.
 
-**Educational Consultant - Purple Mash**
+### **Educational Consultant - Purple Mash**
 February 2018 - May 2018
 _Purple mash is an educational website widely used in nursery + primary schools_
 
 - Researched edTech in Australia which influenced business strategy
 - Designed educational resources for the Australian market
 
-**Coding teacher - Jewish interactive**
+### **Coding teacher - Jewish interactive**
 April 2017 - August 2018 
 _Jewish interactive is an edTech organisation that provides educational content and teaches coding_
 
 - Taught primary school students how to build a website using HTML + CSS, and how to make animation in Scratch
 
-**Volunteer in Colombia - Marina Orth Foundation**
+### **Volunteer in Colombia - Marina Orth Foundation**
 August 2015 - December 2015
 The Marina Orth Foundation improves the lives of people in Colombia through education
 
 - Taught English and ran Art and English clubs in two impoverished rural schools near Medellín, Colombia
 - Developed English language resources
 
-**Community outreach Volunteer - StandUp**
+### **Community outreach Volunteer - StandUp**
 January 2014 - April 2015
 Standup empowers marginalised communities in Australia
 
