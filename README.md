@@ -91,7 +91,7 @@ _Denmark Street studio is a successful music studio_
 
 ### **Consultant - Kolleno**
 July 2020 - Current
-_KollectiVo is a fintech startup helping companies manage late payments_
+_Kolleno is a fintech startup helping companies manage late payments_
 
 - Consulted with the Lead Engineer to create a technical investor-ready business plan
 - Provided UX advice to improve dashboard
