@@ -46,7 +46,7 @@ Teaching provided me with insight into how to create collaborative environments.
 
 
 ### Learning ability
-I learn quickly and am intrinsically motivated. To ensure I am making progress and fully understand concepts I plan, track and assess my own learning. I also am proactive and will seek feedback from more experienced developers. My understanding of educational theory ensures that I can do this effectively. I have taught myself how to use React, and React frameworks such as Next and Gatsby as well as Typescript and GraphQl. 
+I learn quickly and am intrinsically motivated. To ensure I am making progress and fully understand concepts I plan, track and assess my own learning. I also am proactive and will seek feedback from more experienced developers. My understanding of educational theory ensures that I can do this effectively. Before starting at Maker's Academy I learnt the basics of Python and Ruby. In the last few months I have taught myself React, Typescript and GraphQl as well as how to create responsive interfaces.  
 
 
 
@@ -136,8 +136,8 @@ Standup empowers marginalised communities in Australia
 
 ## Interests
 
-**Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottery.
+🎨 **Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottery.
 
-**Design** - I love thinking about problems and designing solutions for them. For example, I am designing a picture book to teach children about climate change, and am designing organisational solutions for people with attention processing issues
+💡 **Design** - I love thinking about problems and designing solutions for them. For example, I am designing a picture book to teach children about climate change, and am designing organisational solutions for people with attention processing issues
 
-**Ping pong** - A recent discovery
+🏓 **Ping pong** - A recent discovery
