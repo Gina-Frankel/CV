@@ -136,8 +136,8 @@ Standup empowers marginalised communities in Australia
 
 ## Interests
 
-🎨 **Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottery.
+🎨  **Art** - Since I was a child I have been creating art in some form. I have explored many mediums including oil painting, sketching and pottery.
 
-💡 **Design** - I love thinking about problems and designing solutions for them. For example, I am designing a picture book to teach children about climate change, and am designing organisational solutions for people with attention processing issues
+💡  **Design** - I love thinking about problems and designing solutions for them. For example, I am designing a picture book to teach children about climate change, and am designing organisational solutions for people with attention processing issues
 
-🏓 **Ping pong** - A recent discovery
+🏓  **Ping pong** - A recent discovery
