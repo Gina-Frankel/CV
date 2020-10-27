@@ -17,9 +17,9 @@ I became a software developer as  I believe that technology provides a digital c
 
 Prior to software development, I worked as a teacher in Australia, Colombia and England. While teaching I was inspired to design educational products and software applications to solve some of the current problems in education. I started to self-teach myself software development to actualise some of my designs. I soon realised I loved the intellectual challenge of software development and wanted to work in this full time.
 
-In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
+In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course, I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
 
-I am looking forward to being able to use my skills to build products that can make a difference to people's lives. 
+I am looking forward to being able to use my skills to build products that can make a difference in people's lives. 
 
 
 # Projects
@@ -31,14 +31,14 @@ I am looking forward to being able to use my skills to build products that can m
 | [Bank Tech Test](https://github.com/Gina-Frankel/bank_tech_tests)         | A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. The aim of this project was to focus on OOP and the TDD process.                                                                                                                                                       | Ruby, RSpec                                             |
 | [Customisable CV](https://github.com/makersacademy/example-story-website) | Working with Makers Academy to develop a customisable website template that Makers graduates can use to showcase their potential   <br><br>[See it live](https://makers-dev.netlify.app/)                                                                                           | React - Gatsby, TypeScript, GraphQL, Jest, Enzyme, SCSS             |
 | [My Secret Garden](https://github.com/Gina-Frankel/my-secret-garden)           | A website designed to help people locate gardens in and around London <br><br>[See it live](https://my-secret-garden-dun.vercel.app/)                                                                                                                                               | React - Next, MongoDB, Express, Google Maps API         |
-| [Statues](https://github.com/Gina-Frankel/statues)                        | A website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade <br><br>[See it live](https://problematic-statues.netlify.app/) | React, Javascript, Python, Spacey, Beautiful Soup, Jest |
+| [Statues and Slavery](https://github.com/Gina-Frankel/statues)                        | A website to provide historical context about public art so that people can have a deeper understanding of British involvement in the Slave Trade <br><br>[See it live](https://problematic-statues.netlify.app/) | React, Javascript, Python, Spacey, Beautiful Soup, Jest |
 | [Gapag Book](https://github.com/alexakearns/acebook-rails-template)       | A team project to create a social media website inspired by Facebook <br><br>[See it live](https://gapag1.herokuapp.com/)                                                                                         | Rails, Ruby, Rspec, Capybara, Travis, Bcrypt            |
 
 # Skills
 
 ### Problem solving
 
-I love solving problems by applying both **logical and creative processes**. I first deconstruct the problem by separating it into smaller sections. I will then analyse the key factors of the problem. If the solution is not clear I will engage in research, experimenting and brainstorming. As a teacher, I used this approach to solve educational issues. If a child was not focusing on their work I would look at all the underlying reasons, including if the work matched the child's ability and  cognitive style and if it was engaging. I would then explore less traditional teaching methods and create innovative resources to ensure that all child could excel. For example, I created a game to teach about the decimal system, which resulted in a much higher level of engagement and attainment of curriculum outcomes.
+I love solving problems by applying both **logical and creative processes**. I first deconstruct the problem by separating it into smaller sections. I will then analyse the key factors of the problem. If the solution is not clear I will engage in research, experimenting and brainstorming. As a teacher, I used this approach to solve educational issues. If a child was not focusing on their work I would look at all the underlying reasons, including if the work matched the child's ability and cognitive style and if it was engaging. I would then explore less traditional teaching methods and create innovative resources. For example, I created a game to teach about the decimal system, which resulted in a much higher level of engagement and achievement.
 
 At Makers academy I learnt problem solving processes specific to programming. I am adept at using TDD and tools such as Input and Output tables, User Stories, and UML diagrams to deconstruct problems.  I love challenging coding problems which require me to brainstorm and experiment with different solutions. I have received consistent feedback from peers, coaches and external reviewers that I have a thorough and methodological approach.
 
@@ -68,7 +68,7 @@ I learn quickly and am intrinsically motivated. To ensure I am making progress a
 ### Makers Academy
 
 - Feb 2020 - June 2020
-- A 16 week intensive programming Bootcamp.
+- A 16-week intensive programming Bootcamp.
 - I learnt how to build full-stack applications using Object Oriented programming, agile processes and Test Driven Development.
 
 ### University
@@ -89,7 +89,7 @@ I learn quickly and am intrinsically motivated. To ensure I am making progress a
 August 2020 - Current 
 _Denmark Street studio is a successful music studio_
 
-- Built a JXA application which reduced time spent on accounting processes by 50%
+- Built a JXA application which reduced the time spent on accounting processes by 50%
 
 ### **Consultant - Kolleno**
 July 2020 - Current
@@ -103,7 +103,7 @@ April 2015 - January 2020
 _Worked in different teaching roles across the nursery age group to year 6. I have worked in both daily supply jobs, and long term contracts._
 
 - **Daily Supply Teaching** -
-  The role required teaching and managing a class of unfamiliar children. It involved being able to quickly asses and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
+  The role required teaching and managing a class of unfamiliar children. It involved being able to quickly assess and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
 
 - **Long Term Roles** -
   I worked in various schools, as a nursery teacher, year 3 teacher and an intervention teacher.
