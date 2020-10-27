@@ -40,7 +40,7 @@ I am looking forward to being able to use my skills to build products that can m
 
 I love solving problems by applying both logical and creative processes. I first deconstruct the problem by separating it into smaller sections. I will then analyse the key factors of the problem. If the solution is not clear I will engage in research, experimenting and brainstorming. As a teacher, I used this approach to solve educational issues. If a child was not focusing on their work I would look at all the underlying reasons, including if the work matched the child's ability and  cognitive style and if it was engaging. I would then explore less traditional teaching methods and create innovative resources to ensure that all child could excel. For example, I created a game to teach about the decimal system, which resulted in a much higher level of engagement and attainment of curriculum outcomes.
 
-When deconstructing coding problems I use TDD and tools such as Input and Output tables, User Stories, and UML diagrams.  I love challenging problems which require me to brainstorm and experiment with different solutions. I have received consistent feedback from peers, coaches and external reviewers that I have a thorough and methodological approach.
+At Makers academy I learnt problem solving processes specific to programming. I am adept at using TDD and tools such as Input and Output tables, User Stories, and UML diagrams to deconstruct problems.  I love challenging coding problems which require me to brainstorm and experiment with different solutions. I have received consistent feedback from peers, coaches and external reviewers that I have a thorough and methodological approach.
 
 
 ### Communication
