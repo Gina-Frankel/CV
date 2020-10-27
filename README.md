@@ -19,7 +19,7 @@ Prior to software development, I worked as a teacher in Australia, Colombia and 
 
 In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
 
-I am looking forward to being able to use my skills to build products that can make a difference to people's lifes. 
+I am looking forward to being able to use my skills to build products that can make a difference to people's lives. 
 
 
 # Projects
