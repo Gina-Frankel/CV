@@ -12,12 +12,12 @@
 [Interests ](#interests)
 
 </div>
-I became a software developer as a I believe that technology provides a digital canvas to actualise innovative ideas and solutions to problems.
+I became a software developer as  I believe that technology provides a digital canvas to actualise innovative ideas and solutions to problems.
 <br></br>
 
-Prior to software development, I worked as a teacher in Australia, Colombia and England. While teaching I was inspired to design educational products and software applications to solve some of the current problems in education. I started to self-teach myself software development in order to actualise some of my designs. I soon realised I loved the intellectual challenge of software development, and wanted to work in this full time.
+Prior to software development, I worked as a teacher in Australia, Colombia and England. While teaching I was inspired to design educational products and software applications to solve some of the current problems in education. I started to self-teach myself software development to actualise some of my designs. I soon realised I loved the intellectual challenge of software development and wanted to work in this full time.
 
-In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
+In order to learn best development practices I completed a course at [Makers Academy](https://makers.tech/). In this course I learnt how to build full-stack applications using TDD, pair programming, and agile processes. I am currently upskilling by building websites with React, Typescript and GraphQL. I have also been working with [Denmark Street Studios](https://www.denmarkstreetstudios.com/) to build an automation app that has greatly reduced their time spent on accounting processes.
 
 I am looking forward to being able to use my skills to build products that can make a difference to people's lifes. 
 
@@ -38,9 +38,9 @@ I am looking forward to being able to use my skills to build products that can m
 
 ### Problem solving
 
-I love solving problems by applying both logical and creative processes. I first deconstruct the problem by seperating it into smaller sections. I will then analyse the key factors of the problem. If the solution is not clear I will engage in research, experimenting and brainstorming. As a teacher, I used this approach to solve educational issues. If a child was not focusing on thier work I would look at all the underlying reasons, including if the work matched the child's ability and  cognitive style and if it was engaging. I would then explore less traditional teaching methods and create innovative resources to ensure that the the child could excel. For example, I created a game to teach about the decimal system, which resulted in much higher level of engagement and attainment of curriculum outcomes.
+I love solving problems by applying both logical and creative processes. I first deconstruct the problem by separating it into smaller sections. I will then analyse the key factors of the problem. If the solution is not clear I will engage in research, experimenting and brainstorming. As a teacher, I used this approach to solve educational issues. If a child was not focusing on their work I would look at all the underlying reasons, including if the work matched the child's ability and  cognitive style and if it was engaging. I would then explore less traditional teaching methods and create innovative resources to ensure that all child could excel. For example, I created a game to teach about the decimal system, which resulted in a much higher level of engagement and attainment of curriculum outcomes.
 
-When deconstructing coding problems I use TDD and tools such as Input and Output tables, User Stories, and UML diagrams.  I love challenging problems which require me to brainstorm and experiment with different solutions. I have recieved consistent feedback from peers, coaches and external reviewers that I have thorough and methodoligical approach.
+When deconstructing coding problems I use TDD and tools such as Input and Output tables, User Stories, and UML diagrams.  I love challenging problems which require me to brainstorm and experiment with different solutions. I have received consistent feedback from peers, coaches and external reviewers that I have a thorough and methodological approach.
 
 
 ### Communication
@@ -49,7 +49,7 @@ Teaching provided me with insight into how to create collaborative environments.
 
 
 ### Learning 
-I learn quickly and am intrinsically motivated. To ensure I am making progress and fully understand concepts I plan, track and assess my own learning. My understanding of educational theory ensures that I can do this effectively. I am proactive and will seek feedback from more experienced developers. I am very excited when I see a thorough code review, especially one where it focuses on small details.  Before starting at Maker's Academy I taught myself the basics of Python and Ruby. At Makers I took every opportunity to learn and would regularly go to process reviews. Since graduating I have been working on group and independent projects. I am now much more adept at React and JavaScript, and can use a variety of different React frameworks including Next and Gatsby. I have also learnt new technologies such as MongoDB, Express, Node, GraphQL, TypeScript and Sass. 
+I learn quickly and am intrinsically motivated. To ensure I am making progress and fully understand concepts I plan, track and assess my own learning. My understanding of educational theory ensures that I can do this effectively. I am proactive and will seek feedback from more experienced developers. I am very excited when I see a thorough code review, especially one where it focuses on small details.  Before starting at Maker's Academy I taught myself the basics of Python and Ruby. At Makers, I took every opportunity to learn and would regularly go to process reviews. Since graduating I have been working on group and independent projects. I am now much more adept at React and JavaScript and can use a variety of different React frameworks including Next and Gatsby. I have also learnt new technologies such as MongoDB, Express, Node, GraphQL, TypeScript and Sass. 
 
 
 ## Technical Skills
@@ -68,8 +68,8 @@ I learn quickly and am intrinsically motivated. To ensure I am making progress a
 ### Makers Academy
 
 - Feb 2020 - June 2020
-- A 16 week intensive programming bootcamp.
-- The course is underpinned by Agile values and methodolgies and Test and Behaviour Driven Development. It focuses on student-led learning, by supporting students to develop solutions independently, in pairs and in groups. I have learnt how to collaborate remotely as due to COVID-19 the course was made remote.
+- A 16 week intensive programming Bootcamp.
+- I learnt how to build full-stack applications using Object Oriented programming, agile processes and Test Driven Development.
 
 ### University
 
@@ -106,7 +106,7 @@ _Worked in different teaching roles across the nursery age group to year 6. I ha
   The role required teaching and managing a class of unfamiliar children. It involved being able to quickly asses and understand the learning and behaviour support that each child needed, and to be able to respond to unanticipated situations such as a teacher not leaving a learning plan.
 
 - **Long Term Roles** -
-  I worked in various different schools, as a nursery teacher, year 3 teacher and an intervention teacher.
+  I worked in various schools, as a nursery teacher, year 3 teacher and an intervention teacher.
   These roles involved a cycle of planning and evaluation. It involved communication with other teachers, the leadership team and parents, and the management of teaching assistants. For more information about these roles please see my [LinkedIn](https://www.ginafrankel.com/) profile.
 
 ### **Educational Consultant - Purple Mash**
@@ -129,7 +129,7 @@ The Marina Orth Foundation improves the lives of people in Colombia through educ
 - Taught English and ran Art and English clubs in two impoverished rural schools near Medellín, Colombia
 - Developed English language resources
 
-### **Community outreach Volunteer - StandUp**
+### **Community Outreach Volunteer - StandUp**
 January 2014 - April 2015
 Standup empowers marginalised communities in Australia
 
